@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"group"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Rails.application.routes.draw do\n  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html\nroot 'trang#nha'\nend\n",
+			"file": "learn_rails_payments/config/routes.rb",
+			"file_size": 139,
+			"file_write_time": 131593875030000000,
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "learn_rails_payments/app/models/application_record.rb",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "learn_rails_payments/app/models/concerns/trang_controller.rb",
+			"settings":
+			{
+				"buffer_size": 6,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "ß"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mac/Desktop/learn_rails",
+		"/Users/mac/Desktop/learn_rails/learn_rails_payments",
+		"/Users/mac/Desktop/learn_rails/learn_rails_payments/app",
+		"/Users/mac/Desktop/learn_rails/learn_rails_payments/app/models",
+		"/Users/mac/Desktop/learn_rails/learn_rails_payments/app/models/concerns",
+		"/Users/mac/Desktop/learn_rails/learn_rails_payments/config"
+	],
+	"file_history":
+	[
+		"/Users/mac/Desktop/learn_rails/learn_rails_paymennt/config/database.yml",
+		"/Users/mac/Desktop/learn_rails/learn_rails_paymennt/Gemfile",
+		"/Users/mac/Desktop/btrails/learnrails/config/routes.rb",
+		"/Applications/XAMPP/xamppfiles/htdocs/bl1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bt1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tinhtienkaraoke.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/themloaigao.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thanhtoantiendien.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pheptinh.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ketquathidaihoc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ketquapheptinh.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ketquahoctap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hienthiloaigao.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bt2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Users/mac/Desktop/BAITAP.sgf",
+		"/Users/mac/Desktop/Demo.sgf",
+		"/Users/mac/Desktop/vidu1.sgf",
+		"/Users/mac/Desktop/baitapjava.sgf",
+		"/Users/mac/Desktop/BFSC++.cpp",
+		"/Users/mac/Downloads/(8) Facebook_files/-Hz_eKeK-EY.js",
+		"/untitled.cpp",
+		"/Users/mac/Desktop/learn_rails/learn_rails_payments/app/views/pages/home.html.erb",
+		"/Users/mac/Desktop/learn_rails/learn_rails_payments/app/views/pages",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/c++.sublime-build",
+		"/Users/mac/Desktop/vta2.cpp",
+		"/Users/mac/Downloads/1.06-Gemfile.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "learn_rails_payments/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "learn_rails_payments/app/models/application_record.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "learn_rails_payments/app/models/concerns/trang_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ß",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/User/c++.sublime-build",
+	"project": "learn_rails.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
